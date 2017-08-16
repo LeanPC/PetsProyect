@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Pets</string>
+    <string name="loading">Espere por favor...</string>
+    <string name="accept">Aceptar</string>
+    <string name="title_activity_pet_detail">Pet Detail</string>
+
+    <string name="nothing_name">Mascota sin Nombre</string>
+    <string name="error">Lo siento ha ocurrido un error, porfavor intentalo mas tarde.</string>
+
+</resources>
